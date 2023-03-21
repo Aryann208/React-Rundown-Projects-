@@ -1,0 +1,18 @@
+.btn {
+  font-family: Calibri, "Trebuchet MS", sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+  background-color: lightblue;
+}
+
+.btn:active {
+  transform: scale(0.95);
+  background-color: lightseagreen;
+  transition: all 0.1s ease-in-out;
+}
+
+.container {
+  width: 40%;
+  margin: 10% auto;
+  padding: 35px;
+}

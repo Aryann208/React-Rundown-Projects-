@@ -1,0 +1,41 @@
+.container {
+  font-family: Calibri Light, "Trebuchet MS", sans-serif;
+  font-size: 1.6rem;
+  font-weight: 100;
+  box-sizing: border-box;
+  display: flex;
+  max-width: 60%;
+  padding: 25px;
+  height: 15vh;
+  margin: 10px auto;
+  border: 2px solid rgb(237, 104, 104);
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 7px;
+  color: rgb(231, 19, 19);
+  background-color: rgb(241, 198, 192);
+}
+
+.white {
+  color: black;
+  background-color: rgb(234, 232, 232);
+}
+.green {
+  color: black;
+  background-color: rgb(221, 246, 187);
+}
+.red {
+  color: black;
+  background-color: rgb(241, 198, 192);
+}
+.yellow {
+  color: black;
+  background-color: rgb(234, 228, 73);
+}
+
+.btnClose {
+  border: none;
+  background: transparent;
+  font-size: 1.8rem;
+  cursor: pointer;
+}

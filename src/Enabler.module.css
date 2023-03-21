@@ -1,0 +1,40 @@
+.module {
+  margin: 2rem 0;
+}
+.form_content {
+  display: inline-block;
+}
+.Container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: black;
+}
+
+.form_item {
+  width: 60%;
+  margin: 10px auto;
+  padding: 7px 15px;
+  background-color: bisque;
+  border-radius: 10px;
+  border: 2px solid rgb(224, 149, 9);
+}
+
+.form_button {
+  border: 2px solid rgb(224, 149, 9);
+  background-color: rgb(238, 218, 180);
+  border-radius: 50%;
+  width: 25px;
+  height: 25px;
+  margin-left: 10px;
+}
+
+.form_button:focus {
+  border: 2px solid rgb(10, 239, 10);
+  background-color: rgb(203, 238, 180);
+  border-radius: 50%;
+  width: 25px;
+  height: 25px;
+  margin-left: 10px;
+}
