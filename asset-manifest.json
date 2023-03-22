@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-Rundown-Projects-/static/css/main.75e193eb.css",
+    "main.js": "/React-Rundown-Projects-/static/js/main.4771942c.js",
+    "static/js/787.ae0246fb.chunk.js": "/React-Rundown-Projects-/static/js/787.ae0246fb.chunk.js",
+    "static/media/AvatarMe.png": "/React-Rundown-Projects-/static/media/AvatarMe.faa41c5b6c1950f9dfec.png",
+    "index.html": "/React-Rundown-Projects-/index.html",
+    "main.75e193eb.css.map": "/React-Rundown-Projects-/static/css/main.75e193eb.css.map",
+    "main.4771942c.js.map": "/React-Rundown-Projects-/static/js/main.4771942c.js.map",
+    "787.ae0246fb.chunk.js.map": "/React-Rundown-Projects-/static/js/787.ae0246fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75e193eb.css",
+    "static/js/main.4771942c.js"
+  ]
+}
